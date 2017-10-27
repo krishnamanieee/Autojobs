@@ -52,7 +52,7 @@ public class  RegisterActivity extends Activity {
                 if (((CheckBox) view).isChecked()) {
                     employeredit.setText("Fresher");
                     departmentedit.setText("Fresher");
-                    segmentedit.setText("Freshfer");
+                    segmentedit.setText("Fresher");
                     experienceedit.setText("Fresher");
                     locationedit.setText("Fresher");
                 } else {
