@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autojobs.iml" filepath="$PROJECT_DIR$/autojobs.iml" />
       <module fileurl="file://$PROJECT_DIR$/autojobsere.iml" filepath="$PROJECT_DIR$/autojobsere.iml" />
     </modules>
   </component>
